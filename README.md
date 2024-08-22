@@ -1,1 +1,2 @@
-# Alurabook_2B-Priscila-
+# Alurabooks_2B
+Criar um site em tela de celular
